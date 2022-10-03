@@ -13,7 +13,7 @@ This site was built using [GitHub Main](https://github.com/KinsonLiang/CSE-110)
 Software Engineer
 
 
-[More about my favourite language](vscode-UI/README.md)
+[More about me](README.md)
 
 # Languages
 - C++
