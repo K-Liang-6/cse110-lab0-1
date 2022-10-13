@@ -4,26 +4,22 @@
 **A student who want to be a software engineer**
 > Major: Math-CS
 
-`git status`
-
-This site was built using [GitHub Main](https://github.com/KinsonLiang/CSE-110)
-
 [click on this link](#language)
 ### Expected Job
 Software Engineer
 
-
 [More about me](README.md)
 
-# Languages
+# Languages I learned
 - C++
 - Java
 - Swift
 
-1. C++
-2. Java
-3. Swift
+# Things I like to coding for
+1. Game
+2. Desktop Software
+3. Mobil App
 
 - [x] Come to UCSD
-- [ ] Find a internship of Software Engineer
+- [ ] Find a internship of Software Engineer in Google, Apple....
 - [ ] Graduate from UCSD
